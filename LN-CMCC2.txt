@@ -81,6 +81,14 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 
 卫视,#genre#
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227605/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227634/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227693/index.m3u8
@@ -169,14 +177,6 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227619/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226142/index.m3u8
 江西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226788/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227605/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 内蒙古卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227585/index.m3u8
 内蒙古卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226155/index.m3u8
 宁夏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227494/index.m3u8
